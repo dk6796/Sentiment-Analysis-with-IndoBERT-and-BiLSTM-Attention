@@ -14,11 +14,3 @@ Dataset berformat TSV (Tab-Separated Values) dengan dua kolom tanpa header:
 | `label` | Sentimen: `positive`, `neutral`, atau `negative` |
 
 Dataset dibagi menjadi tiga split: `train_preprocess.tsv`, `valid_preprocess.tsv`, dan `test_preprocess.tsv` dapat dilihat dan unduh di folder DATASETS.
-
----
-
-## 🙏 Acknowledgements
-
-- [IndoBERT](https://huggingface.co/indobenchmark/indobert-base-p1) oleh IndoBenchmark
-- [Hugging Face Transformers](https://github.com/huggingface/transformers)
-- [PyTorch](https://pytorch.org/)
